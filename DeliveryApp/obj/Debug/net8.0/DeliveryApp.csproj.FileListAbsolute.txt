@@ -1,0 +1,54 @@
+C:\Users\sevak\OneDrive\Рабочий стол\Новая папка (2)\DeliveryApp\bin\Debug\net8.0\DeliveryApp.exe
+C:\Users\sevak\OneDrive\Рабочий стол\Новая папка (2)\DeliveryApp\bin\Debug\net8.0\DeliveryApp.deps.json
+C:\Users\sevak\OneDrive\Рабочий стол\Новая папка (2)\DeliveryApp\bin\Debug\net8.0\DeliveryApp.runtimeconfig.json
+C:\Users\sevak\OneDrive\Рабочий стол\Новая папка (2)\DeliveryApp\bin\Debug\net8.0\DeliveryApp.dll
+C:\Users\sevak\OneDrive\Рабочий стол\Новая папка (2)\DeliveryApp\bin\Debug\net8.0\DeliveryApp.pdb
+C:\Users\sevak\OneDrive\Рабочий стол\Новая папка (2)\DeliveryApp\bin\Debug\net8.0\Logs.dll
+C:\Users\sevak\OneDrive\Рабочий стол\Новая папка (2)\DeliveryApp\bin\Debug\net8.0\Models.dll
+C:\Users\sevak\OneDrive\Рабочий стол\Новая папка (2)\DeliveryApp\bin\Debug\net8.0\Services.dll
+C:\Users\sevak\OneDrive\Рабочий стол\Новая папка (2)\DeliveryApp\bin\Debug\net8.0\Logs.pdb
+C:\Users\sevak\OneDrive\Рабочий стол\Новая папка (2)\DeliveryApp\bin\Debug\net8.0\Models.pdb
+C:\Users\sevak\OneDrive\Рабочий стол\Новая папка (2)\DeliveryApp\bin\Debug\net8.0\Services.pdb
+C:\Users\sevak\OneDrive\Рабочий стол\Новая папка (2)\DeliveryApp\obj\Debug\net8.0\DeliveryApp.csproj.AssemblyReference.cache
+C:\Users\sevak\OneDrive\Рабочий стол\Новая папка (2)\DeliveryApp\obj\Debug\net8.0\DeliveryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevak\OneDrive\Рабочий стол\Новая папка (2)\DeliveryApp\obj\Debug\net8.0\DeliveryApp.AssemblyInfoInputs.cache
+C:\Users\sevak\OneDrive\Рабочий стол\Новая папка (2)\DeliveryApp\obj\Debug\net8.0\DeliveryApp.AssemblyInfo.cs
+C:\Users\sevak\OneDrive\Рабочий стол\Новая папка (2)\DeliveryApp\obj\Debug\net8.0\DeliveryApp.csproj.CoreCompileInputs.cache
+C:\Users\sevak\OneDrive\Рабочий стол\Новая папка (2)\DeliveryApp\obj\Debug\net8.0\Delivery.1FF6E028.Up2Date
+C:\Users\sevak\OneDrive\Рабочий стол\Новая папка (2)\DeliveryApp\obj\Debug\net8.0\DeliveryApp.dll
+C:\Users\sevak\OneDrive\Рабочий стол\Новая папка (2)\DeliveryApp\obj\Debug\net8.0\refint\DeliveryApp.dll
+C:\Users\sevak\OneDrive\Рабочий стол\Новая папка (2)\DeliveryApp\obj\Debug\net8.0\DeliveryApp.pdb
+C:\Users\sevak\OneDrive\Рабочий стол\Новая папка (2)\DeliveryApp\obj\Debug\net8.0\DeliveryApp.genruntimeconfig.cache
+C:\Users\sevak\OneDrive\Рабочий стол\Новая папка (2)\DeliveryApp\obj\Debug\net8.0\ref\DeliveryApp.dll
+C:\Users\sevak\OneDrive\Рабочий стол\Новая папка (2)\DeliveryApp\bin\Debug\net8.0\DotNetEnv.dll
+C:\Users\sevak\OneDrive\Рабочий стол\Новая папка (2)\DeliveryApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\sevak\OneDrive\Рабочий стол\Новая папка (2)\DeliveryApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sevak\OneDrive\Рабочий стол\Новая папка (2)\DeliveryApp\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\sevak\OneDrive\Рабочий стол\Новая папка (2)\DeliveryApp\bin\Debug\net8.0\Sprache.dll
+C:\Users\sevak\OneDrive\Рабочий стол\TestTask\DeliveryApp\bin\Debug\net8.0\DeliveryApp.exe
+C:\Users\sevak\OneDrive\Рабочий стол\TestTask\DeliveryApp\bin\Debug\net8.0\DeliveryApp.deps.json
+C:\Users\sevak\OneDrive\Рабочий стол\TestTask\DeliveryApp\bin\Debug\net8.0\DeliveryApp.runtimeconfig.json
+C:\Users\sevak\OneDrive\Рабочий стол\TestTask\DeliveryApp\bin\Debug\net8.0\DeliveryApp.dll
+C:\Users\sevak\OneDrive\Рабочий стол\TestTask\DeliveryApp\bin\Debug\net8.0\DeliveryApp.pdb
+C:\Users\sevak\OneDrive\Рабочий стол\TestTask\DeliveryApp\bin\Debug\net8.0\DotNetEnv.dll
+C:\Users\sevak\OneDrive\Рабочий стол\TestTask\DeliveryApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\sevak\OneDrive\Рабочий стол\TestTask\DeliveryApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sevak\OneDrive\Рабочий стол\TestTask\DeliveryApp\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\sevak\OneDrive\Рабочий стол\TestTask\DeliveryApp\bin\Debug\net8.0\Sprache.dll
+C:\Users\sevak\OneDrive\Рабочий стол\TestTask\DeliveryApp\bin\Debug\net8.0\Logs.dll
+C:\Users\sevak\OneDrive\Рабочий стол\TestTask\DeliveryApp\bin\Debug\net8.0\Models.dll
+C:\Users\sevak\OneDrive\Рабочий стол\TestTask\DeliveryApp\bin\Debug\net8.0\Services.dll
+C:\Users\sevak\OneDrive\Рабочий стол\TestTask\DeliveryApp\bin\Debug\net8.0\Logs.pdb
+C:\Users\sevak\OneDrive\Рабочий стол\TestTask\DeliveryApp\bin\Debug\net8.0\Models.pdb
+C:\Users\sevak\OneDrive\Рабочий стол\TestTask\DeliveryApp\bin\Debug\net8.0\Services.pdb
+C:\Users\sevak\OneDrive\Рабочий стол\TestTask\DeliveryApp\obj\Debug\net8.0\DeliveryApp.csproj.AssemblyReference.cache
+C:\Users\sevak\OneDrive\Рабочий стол\TestTask\DeliveryApp\obj\Debug\net8.0\DeliveryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevak\OneDrive\Рабочий стол\TestTask\DeliveryApp\obj\Debug\net8.0\DeliveryApp.AssemblyInfoInputs.cache
+C:\Users\sevak\OneDrive\Рабочий стол\TestTask\DeliveryApp\obj\Debug\net8.0\DeliveryApp.AssemblyInfo.cs
+C:\Users\sevak\OneDrive\Рабочий стол\TestTask\DeliveryApp\obj\Debug\net8.0\DeliveryApp.csproj.CoreCompileInputs.cache
+C:\Users\sevak\OneDrive\Рабочий стол\TestTask\DeliveryApp\obj\Debug\net8.0\Delivery.1FF6E028.Up2Date
+C:\Users\sevak\OneDrive\Рабочий стол\TestTask\DeliveryApp\obj\Debug\net8.0\DeliveryApp.dll
+C:\Users\sevak\OneDrive\Рабочий стол\TestTask\DeliveryApp\obj\Debug\net8.0\refint\DeliveryApp.dll
+C:\Users\sevak\OneDrive\Рабочий стол\TestTask\DeliveryApp\obj\Debug\net8.0\DeliveryApp.pdb
+C:\Users\sevak\OneDrive\Рабочий стол\TestTask\DeliveryApp\obj\Debug\net8.0\DeliveryApp.genruntimeconfig.cache
+C:\Users\sevak\OneDrive\Рабочий стол\TestTask\DeliveryApp\obj\Debug\net8.0\ref\DeliveryApp.dll

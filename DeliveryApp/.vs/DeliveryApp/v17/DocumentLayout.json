@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sevak\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TestTask\\DeliveryApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAA83741-889B-4761-B3F4-AC7073007F93}|DeliveryApp.csproj|c:\\users\\sevak\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\testtask\\deliveryapp\\readme.txt.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FAA83741-889B-4761-B3F4-AC7073007F93}|DeliveryApp.csproj|solutionrelative:readme.txt.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAA83741-889B-4761-B3F4-AC7073007F93}|DeliveryApp.csproj|C:\\Users\\sevak\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TestTask\\DeliveryApp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAA83741-889B-4761-B3F4-AC7073007F93}|DeliveryApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAA83741-889B-4761-B3F4-AC7073007F93}|DeliveryApp.csproj|c:\\users\\sevak\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\testtask\\deliveryapp\\orders.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FAA83741-889B-4761-B3F4-AC7073007F93}|DeliveryApp.csproj|solutionrelative:orders.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAA83741-889B-4761-B3F4-AC7073007F93}|DeliveryApp.csproj|c:\\users\\sevak\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\testtask\\deliveryapp\\file.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FAA83741-889B-4761-B3F4-AC7073007F93}|DeliveryApp.csproj|solutionrelative:file.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "orders.csv",
+              "DocumentMoniker": "C:\\Users\\sevak\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TestTask\\DeliveryApp\\orders.csv",
+              "RelativeDocumentMoniker": "orders.csv",
+              "ToolTip": "C:\\Users\\sevak\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TestTask\\DeliveryApp\\orders.csv",
+              "RelativeToolTip": "orders.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-10-24T13:18:52.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "readme.txt.txt",
+              "DocumentMoniker": "C:\\Users\\sevak\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TestTask\\DeliveryApp\\readme.txt.txt",
+              "RelativeDocumentMoniker": "readme.txt.txt",
+              "ToolTip": "C:\\Users\\sevak\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TestTask\\DeliveryApp\\readme.txt.txt",
+              "RelativeToolTip": "readme.txt.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAADCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-24T13:16:59.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "file.env",
+              "DocumentMoniker": "C:\\Users\\sevak\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TestTask\\DeliveryApp\\file.env",
+              "RelativeDocumentMoniker": "file.env",
+              "ToolTip": "C:\\Users\\sevak\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TestTask\\DeliveryApp\\file.env",
+              "RelativeToolTip": "file.env",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-24T12:58:56.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sevak\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TestTask\\DeliveryApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sevak\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TestTask\\DeliveryApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:21:57.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
